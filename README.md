@@ -1,5 +1,3 @@
-# cs50-c-python-solutions
-
 # CS50 Problem Sets (C & Python)
 
 This repository contains my solutions to various problem sets from Harvard's CS50 course.
